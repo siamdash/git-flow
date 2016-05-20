@@ -1,7 +1,7 @@
 # git-flow
 A simple repository for exploring workflow.
 
-#Version 1.2
+##Version 1.2.1
 
 ###Creating a feature branch
 When starting work on a new feature, branch off from the develop branch.
